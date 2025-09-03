@@ -7,6 +7,7 @@ int main()
     cout << "Enter your name: ";
     cin >> name;
     cout << name; */
+    
     // or
 
     /*cin considers a space (whitespace, tabs, etc) as a terminating character,
