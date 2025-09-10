@@ -11,6 +11,9 @@ int main()
     {
         cout << "You can vote!";
     }
+    else if (myage < 2){
+        cout << "h";
+    }
     else
     {
         cout << "Sorry, You can't vote!";
